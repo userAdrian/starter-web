@@ -8,6 +8,6 @@ Sample website with plenty of files for demos
 
 ## Copyright
 
-Copyrights 2023
+Copyrights
 
 ## Section
