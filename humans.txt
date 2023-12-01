@@ -1,8 +1,8 @@
 # humanstxt.org/
-# The humans responsible & technology colophon
+# The humans responsible & technology colohonp
 
 # TEAM
-	MyTeam
+	MyTeam is powerful
     <name> -- <role> -- <twitter>
 
 # THANKS
